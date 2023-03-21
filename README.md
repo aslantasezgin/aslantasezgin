@@ -5,6 +5,7 @@
 
 <h4> < FrontendDeveloper/> </h4>
 
+<p>
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=aslantasezgin.aslantasezgin)
 [![Github](https://img.shields.io/github/followers/aslantasezgin?label=Follow&style=social)](https://github.com/aslantasezgin)
 
