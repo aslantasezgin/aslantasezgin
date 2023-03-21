@@ -15,9 +15,7 @@
   
 - 🔭 I’m currently working on BiggPlus 
   
-- 🌱 I’m currently learning React, Nextjs
-  
-- 💬 Ask me about Html, Css, Javascript, Jquery, React, Redux, Next, Bootstrap, Tailwind, Php(Pdo), MySql
+- 💬 Ask me about Html, Css, Bootstrap, Tailwind, Javascript, Jquery, React, Redux, Next,  Php(Pdo), MySql
   
 - ⚡ Hobies: Coding, books.
 
