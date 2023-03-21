@@ -48,14 +48,7 @@
   
 [![Sezgin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aslantasezgin&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Sezgin's github stats](https://github-readme-stats.vercel.app/api?username=aslantasezgin&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Sezgin's github stats](https://github-readme-stats.vercel.app/api?username=aslantasezgin&show_icons=true&theme=tokyonight) | ![Sezgin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslantasezgin&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aslantasezgin&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-
-
-<br>
-
-
-
 
