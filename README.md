@@ -3,10 +3,7 @@
     <img width="200" src="https://aslantasezgin.netlify.app/static/media/logo.71e654640b82d5c2fc36.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
+<h1><FrontendDeveloper/>! </h1>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=aslantasezgin.aslantasezgin)
 [![Github](https://img.shields.io/github/followers/aslantasezgin?label=Follow&style=social)](https://github.com/aslantasezgin)
