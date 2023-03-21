@@ -32,8 +32,12 @@
   
  <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
  <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+ <a> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg'> </a>
+ <a> <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/5968/5968672.png'> </a>
  <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a> <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/redux.svg'> </a>
+<a> <img width ='32px' src ='https://bestofjs.org/logos/nextjs.svg'> </a>
 <a > <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/919/919830.png'> </a>
 <a > <img width ='32px' src ='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png'> </a>
 
