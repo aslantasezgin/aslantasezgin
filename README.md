@@ -3,7 +3,7 @@
     <img width="200" src="https://aslantasezgin.netlify.app/static/media/logo.71e654640b82d5c2fc36.png">
 </p>
 
-<h4> < FrontendDeveloper/> <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px> </h4>
+<h4> < FrontendDeveloper/> </h4>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=aslantasezgin.aslantasezgin)
 [![Github](https://img.shields.io/github/followers/aslantasezgin?label=Follow&style=social)](https://github.com/aslantasezgin)
