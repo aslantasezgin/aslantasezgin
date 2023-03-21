@@ -46,7 +46,6 @@
 <br>
   <br>
   
-(https://activity-graph.herokuapp.com/graph?username=aslantasezgin&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Sezgin's github stats](https://github-readme-stats.vercel.app/api?username=aslantasezgin&show_icons=true&theme=tokyonight) | ![Sezgin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 
