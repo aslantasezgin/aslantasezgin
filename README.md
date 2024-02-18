@@ -11,11 +11,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-- 👋 Hi, I’m Sezgin, I am 22 years old. I have been working as a frontend developer for 2 years. I am a person who is constantly improving himself, open to learning. I love working in the field of design and software.
+- 👋 Hi, I’m Sezgin, I am 22 years old. I have been working as a frontend developer for 3 years. I am a person who is constantly improving himself, open to learning. I love working in the field of design and software.
   
 - 🔭 I’m currently working on Nexum Bogazici 
   
-- 💬 Ask me about Html, Css, Bootstrap, Tailwind, Javascript, Jquery, React, Redux, Next,  Php, MySql
+- 💬 Ask me about Html, Css, Bootstrap, Tailwind, Javascript, Jquery, React, Redux, Next, Typescript, Php, MySql, NodeJS, Mssql
   
 - ⚡ Hobies: Coding, books.
 
